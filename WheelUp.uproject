@@ -43,6 +43,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
 		}
 	]
 }
