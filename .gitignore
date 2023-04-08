@@ -13,6 +13,8 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
+**/.DS_Store
+
 Build
 
 # Imported Resources
